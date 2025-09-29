@@ -1,73 +1,36 @@
-# Welcome to your Lovable project
+🎬 Never Ending Films – Official Website
 
-## Project info
+The official website of Never Ending Films, a Mumbai-based film production and post-production company. This project is built to represent the cinematic excellence, creativity, and innovation that define the studio’s work. it is designed to be visually immersive, SEO-optimized, and user-friendly.
 
-**URL**: https://lovable.dev/projects/a0e71061-6823-45b4-8e01-ee55018eb393
+🌟 Overview
 
-## How can I edit this code?
+This website is crafted to showcase Never Ending Films’ services, completed projects, founder, and behind-the-scenes content in a way that reflects its premium brand identity. With a focus on storytelling, animations, and modern design, the website serves as a digital portfolio for one of India’s most dynamic production houses.
 
-There are several ways of editing your application.
+✨ Features
 
-**Use Lovable**
+Cinematic Design: A modern, VFX-inspired interface with particle animations across all pages for a premium look and feel.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/a0e71061-6823-45b4-8e01-ee55018eb393) and start prompting.
+Founder & Team Section: Detailed bio of Founder & Managing Director Karan Patel along with team members, complete with IMDb integration.
 
-Changes made via Lovable will be committed automatically to this repo.
+Services & Completed Projects: Professionally listed services with individual pages, images, and animations. Completed projects section highlights major works with IMDb links.
 
-**Use your preferred IDE**
+BTS Carousel: Interactive Behind-The-Scenes image carousel with smooth transitions, placed between BTS and Services on the homepage.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Functional Navigation: All buttons and links across the site are working, including footer quick links, service-specific pages, and contact form submission.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Contact Page with Google Maps: Fully functional contact form with dropdown for project categories and integrated clickable Google Map for easy location access.
 
-Follow these steps:
+SEO Optimization: Meta tags, alt text for images, structured headings, and lightweight code for faster loading and better ranking.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+🎥 Technologies Used
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install the necessary dependencies.
-npm i
+HTML5, JSX, CSS3, and JavaScript for layout and functionality
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+SEO best practices for search engine visibility.
 
-**Edit a file directly in GitHub**
+📍 Purpose
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+The website acts as a digital identity for Never Ending Films, highlighting its work on feature films, web series, commercials, digital ads, music videos, and documentaries. It also reflects the company’s collaborative approach, passion for storytelling, and commitment to quality.
 
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/a0e71061-6823-45b4-8e01-ee55018eb393) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+This project is designed to be interactive, visually striking, and performance-optimized, truly embodying the spirit of Never Ending Films
